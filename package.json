@@ -1,0 +1,26 @@
+{
+  "name": "botinsky",
+  "version": "0.1.0",
+  "description": "A framework to cleverly navigate an intent tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/botinsky/botinsky.git"
+  },
+  "keywords": [
+    "bot",
+    "ai",
+    "intent",
+    "machine",
+    "learning"
+  ],
+  "author": "Mario Gintili & Jonathan Holt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botinsky/botinsky/issues"
+  },
+  "homepage": "https://github.com/botinsky/botinsky#readme"
+}
